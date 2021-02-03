@@ -43,7 +43,8 @@ Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuste
 ----------
   
   
-# MarketKarma: SEO & E-commerce Search Marketing Technology based in Miami Beach, Florida
+# [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO & E-commerce Search Marketing Technology")
+## SEO & E-commerce Search Marketing Technology
 
 MarketKarma is a full-service digital agency based in Miami Beach, Florida.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative digital marketing strategies to propel our clients business into the stratosphere.  We believe in the power of '_what if?_'; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
 
