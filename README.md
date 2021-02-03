@@ -1,8 +1,8 @@
 
 
-# Joey Burzynski 
-## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
+# Joey Burzynski: **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
 
+## Bio
 I drive revenue. All other metrics pale in comparison.
 
 I have over two decades of experience in digital strategy and e-commerce. My core competencies include web and application development, Amazon Marketplace optimization, affiliate marketing and organic search marketing strategy.
