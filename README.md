@@ -1,29 +1,54 @@
-### Hi there 👋
 
-# Joey Burzynski [![Connect with SEO expert Joey Burzynski on CodeMentor](https://www.codementor.io/badges/contact_me_github.svg "SEO Expert")](https://www.codementor.io/marketkarma "Connect with SEO expert Joey Burzynski on CodeMentor")
-### **SEO Expert / Full Stack Developer / Founder of [MarketKarma](https://www.marketkarma.com "MarketKarma") & [CouponMate](https://www.couponmate.com "CouponMate")**  
 
-I drive revenue. All other metrics pale in comparison. I have over 20 years experience with Internet and web-based technology. My core competencies include web and application development, Amazon Marketplace optimization, affiliate marketing and organic search marketing strategy.
+# Joey Burzynski 
+## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
 
-I have worked directly on architecting online marketing strategies, both domestic and international, for a number of Fortune 500 brands. As founder and CTO of MarketKarma, I oversee organic search strategy for all enterprise accounts and work to create innovative solutions to assist retailers in tackling their online marketing challenges.
+### Drop me a line
+
+|[joey@marketkarma.com](mailto:joey@marketkarma.com "Drop me a line via email.")   |[(888) 277-0225](tel:+18882770225 "Give me a shout.")   |[Schedule a consult](https://marketkarma.as.me/ "Schedule a 30-minute meeting with me.")   |[MarketKarma](https://www.google.com/search?q=MarketKarma+SEO "Find me online.")
+|:-:|:-:|:-:|:-:|
+
+
+I drive revenue. All other metrics pale in comparison.
+
+I have over two decades of experience in digital strategy and e-commerce. My core competencies include web and application development, Amazon Marketplace optimization, affiliate marketing and organic search marketing strategy.
+
+I have worked directly on architecting online marketing strategies, both domestic and international, for a number of global brands.
+
+As founder and CTO of MarketKarma, I oversee organic search strategy for all enterprise accounts and work to create innovative solutions to assist retailers in tackling their digital marketing challenges.
+
+## We work with brands like..
+
+Ace Cash Express, Athleta, Banana Republic, Blockbuster, Buckle, CheapCaribbean, Diesel, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Mavis Tire, Old Navy, Oriental Trading Company, Piperlime, Red Envelope, Sacha Cosmetics, ShearComfort, Smart Bargains, Swanson Health, Williams-Sonoma
+
+## Connect
 
 | | | | | | | | | | | | |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|[![Joey Burzynski on GitHub](https://www.marketkarma.com/shared/GitHub.png "Joey Burzynski on GitHub")](https://github.com/JoeyBurzynski "Joey Burzynski on GitHub")|[![Joey Burzynski on StackOverflow](https://www.marketkarma.com/shared/StackOverflow.png "Joey Burzynski on StackOverflow")](https://stackoverflow.com/story/seo "SEO Expert") |[![Joey Burzynski on LinkedIn](https://www.marketkarma.com/shared/LinkedIn.png "Joey Burzynski on LinkedIn")](https://www.linkedin.com/in/miamibeachseo "Miami SEO Expert") |[![Joey Burzynski on Quora](https://www.marketkarma.com/shared/Quora.png "Joey Burzynski on Quora")](https://www.quora.com/profile/Joey-Burzynski "Joey Burzynski on Quora") |[![Joey Burzynski on Twitter](https://www.marketkarma.com/shared/Twitter.png "Joey Burzynski on Twitter")](https://twitter.com/JoeyBurzynski "Joey Burzynski on Twitter") |[![Joey Burzynski on AngelList](https://www.marketkarma.com/shared/AngelList.png "Joey Burzynski on AngelList")](https://angel.co/joeyburzynski "Joey Burzynski on AngelList") |[![Joey Burzynski on Google+](https://www.marketkarma.com/shared/GooglePlus.png "Joey Burzynski on Google+")](https://plus.google.com/u/1/+JoeyBurzynski81 "Joey Burzynski on Google+") |[![Joey Burzynski on Dribbble](https://www.marketkarma.com/shared/Dribbble.png "Joey Burzynski on Dribbble")](https://dribbble.com/JoeyBurzynski "Joey Burzynski on Dribbble") |[![Joey Burzynski on Behance](https://www.marketkarma.com/shared/Behance.png "Joey Burzynski on Behance")](https://www.behance.net/joeyburzynski "Joey Burzynski on Behance") |[![Joey Burzynski on Feedly](https://www.marketkarma.com/shared/Feedly.png "Joey Burzynski on Feedly")](https://feedly.com/joeyburzynski "Joey Burzynski on Feedly") |[![Drop me a line via Email](https://www.marketkarma.com/shared/Email.png "Drop me a line via Email")](mailto:joey@marketkarma.com "Drop me a line via Email") |[![Give me a shout via Phone](https://www.marketkarma.com/shared/Phone.png "Give me a shout via Phone")](tel:8882770225 "Give me a shout via Phone") |
+|[![Joey Burzynski on GitHub](https://www.marketkarma.com/shared/GitHub.png "Joey Burzynski on GitHub")](https://github.com/JoeyBurzynski "Joey Burzynski on GitHub")|[![Joey Burzynski on StackOverflow](https://www.marketkarma.com/shared/StackOverflow.png "Joey Burzynski on StackOverflow")](https://stackoverflow.com/story/seo "SEO Expert") |[![Joey Burzynski on LinkedIn](https://www.marketkarma.com/shared/LinkedIn.png "Joey Burzynski on LinkedIn")](https://www.linkedin.com/in/miamibeachseo "Joey Burzynski: Miami SEO Expert") |[![Joey Burzynski on Quora](https://www.marketkarma.com/shared/Quora.png "Joey Burzynski on Quora")](https://www.quora.com/profile/Joey-Burzynski "Joey Burzynski on Quora") |[![Joey Burzynski on Twitter](https://www.marketkarma.com/shared/Twitter.png "Joey Burzynski on Twitter")](https://twitter.com/JoeyBurzynski "Joey Burzynski on Twitter") |[![Joey Burzynski on AngelList](https://www.marketkarma.com/shared/AngelList.png "Joey Burzynski on AngelList")](https://angel.co/joeyburzynski "Joey Burzynski on AngelList") |[![Joey Burzynski on Google+](https://www.marketkarma.com/shared/GooglePlus.png "Joey Burzynski on Google+")](https://plus.google.com/u/1/+JoeyBurzynski81 "Joey Burzynski on Google+") |[![Joey Burzynski on Dribbble](https://www.marketkarma.com/shared/Dribbble.png "Joey Burzynski on Dribbble")](https://dribbble.com/JoeyBurzynski "Joey Burzynski on Dribbble") |[![Joey Burzynski on Behance](https://www.marketkarma.com/shared/Behance.png "Joey Burzynski on Behance")](https://www.behance.net/joeyburzynski "Joey Burzynski on Behance") |[![Joey Burzynski on Feedly](https://www.marketkarma.com/shared/Feedly.png "Joey Burzynski on Feedly")](https://feedly.com/joeyburzynski "Joey Burzynski on Feedly") |[![Drop me a line via Email](https://www.marketkarma.com/shared/Email.png "Drop me a line via Email")](mailto:joey@marketkarma.com "Drop me a line via Email") |[![Give me a shout via Phone](https://www.marketkarma.com/shared/Phone.png "Give me a shout via Phone")](tel:8882770225 "Give me a shout via Phone") |
 
+## Elsewhere
+
+|[LinkedIn](https://www.linkedin.com/in/miamibeachseo)|[Twitter](https://twitter.com/JoeyBurzynski)   |[Product Hunt](https://www.producthunt.com/@joeyburzynski)   |[Quora](https://www.quora.com/profile/Joey-Burzynski)   |[CodeMentor](https://www.codementor.io/@marketkarma)   |[StackOverflow](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert")   |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Dribbble](https://dribbble.com/JoeyBurzynski)   |[Feedly](https://feedly.com/joeyburzynski/Ruby)   |[Github Gist](https://gist.github.com/JoeyBurzynski)   |[MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")   |[Medium](https://medium.com/@joeyburzynski)   |[Moz](https://moz.com/community/users/4206813)|[CodePen](https://codepen.io/ResistedNormalcy)
+|[Arc](https://arc.dev/@marketkarma)   |[Patreon](https://www.patreon.com/JoeyBurzynski/creators)   |[Behance](https://www.behance.net/joeyburzynski)   |[SEMRush](https://www.semrush.com/user/146064753/)   |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski)   |[AngelList](https://angel.co/u/joeyburzynski)   |
 
 
 ----------
 
-# MarketKarma
-### SEO & E-commerce Search Marketing Technology in Miami Beach, Florida
-MarketKarma is a full-service digital agency in Miami Beach.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative marketing strategies to propel our clients business into the stratosphere.
+# MarketKarma: SEO & E-commerce Search Marketing Technology based in Miami Beach, Florida
 
-We believe in the power of ‘what if?’; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
+MarketKarma is a full-service digital agency based in Miami Beach, Florida.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative digital marketing strategies to propel our clients business into the stratosphere.  We believe in the power of '_what if?_'; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
+
+Search algorithms reward rich and targeted content. Taxonomies, templates, and assets in e-commerce platforms tend to be restrictive, inherently unstable, and may not fully differentiate product facets or leverage best practice markup. Escaping these constraints is critical to communicating value to the search engines and ranking effectively.
+
+Clients rely on our SaaS platform, MarketReach, to algorithmically enrich and extend their digital footprint, improving their organic search visibility _at scale_.  The results are clear: higher rankings, more traffic, and ultimately — more revenue. 
+
  
 | | | | | | |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|[![MarketKarma](https://www.marketkarma.com/shared/MarketKarma.png "MarketKarma")](https://www.marketkarma.com "Miami SEO")|[![MarketKarma on GitHub](https://www.marketkarma.com/shared/GitHub.png "MarketKarma on GitHub")](https://github.com/MarketKarma "MarketKarma on GitHub")|[![MarketKarma on Twitter](https://www.marketkarma.com/shared/Twitter.png "MarketKarma on Twitter")](https://twitter.com/MarketKarma "MarketKarma on Twitter")|[![MarketKarma on LinkedIn](https://www.marketkarma.com/shared/LinkedIn.png "MarketKarma on LinkedIn")](https://www.linkedin.com/company/MarketKarma "Miami SEO Company")|[![MarketKarma on Facebook](https://www.marketkarma.com/shared/Facebook.png "MarketKarma on Facebook")](https://www.facebook.com/MarketKarma "Miami SEO Company")|[![MarketKarma on AngelList](https://www.marketkarma.com/shared/AngelList.png "MarketKarma on AngelList")](https://angel.co/marketkarma "MarketKarma on AngelList")|
+|[![MarketKarma](https://www.marketkarma.com/shared/MarketKarma.png "MarketKarma: E-commerce SEO Technology")](https://www.marketkarma.com "MarketKarma: Internet Marketing Agency in Miami Beach, Florida")|[![MarketKarma on GitHub](https://www.marketkarma.com/shared/GitHub.png "MarketKarma on GitHub")](https://github.com/MarketKarma "MarketKarma on GitHub")|[![MarketKarma on Twitter](https://www.marketkarma.com/shared/Twitter.png "MarketKarma on Twitter")](https://twitter.com/MarketKarma "MarketKarma on Twitter")|[![MarketKarma on LinkedIn](https://www.marketkarma.com/shared/LinkedIn.png "MarketKarma on LinkedIn")](https://www.linkedin.com/company/MarketKarma "MarketKarma: E-commerce Search Marketing Technology")|[![MarketKarma on Facebook](https://www.marketkarma.com/shared/Facebook.png "MarketKarma on Facebook")](https://www.facebook.com/MarketKarma "MarketKarma: E-commerce SEO Experts in Miami Beach, Florida")|[![MarketKarma on AngelList](https://www.marketkarma.com/shared/AngelList.png "MarketKarma on AngelList")](https://angel.co/marketkarma "MarketKarma on AngelList")|
 
 
 <!--
