@@ -5,7 +5,7 @@
 
 ### Drop me a line
 
-|[joey@marketkarma.com](mailto:joey@marketkarma.com "Drop me a line via email.")   |[(888) 277-0225](tel:+18882770225 "Give me a shout.")   |[Schedule a consult](https://marketkarma.as.me/ "Schedule a 30-minute meeting with me.")   |[MarketKarma](https://www.google.com/search?q=MarketKarma+SEO "Find me online.")
+|[joey@marketkarma.com](mailto:joey@marketkarma.com "Drop me a line via email.")   |[(888) 277-0225](tel:8882770225 "Give me a shout.")   |[Schedule a consult](https://marketkarma.as.me/ "Schedule a 30-minute meeting with me.")   |[MarketKarma](https://www.google.com/search?q=MarketKarma+SEO "Find me online.")
 |:-:|:-:|:-:|:-:|
 
 
