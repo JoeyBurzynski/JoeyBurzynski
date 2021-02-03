@@ -1,8 +1,10 @@
 
 
-# Joey Burzynski: **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
+# Joey Burzynski
+## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
 
-## Bio
+## What I do..
+
 I drive revenue. All other metrics pale in comparison.
 
 I have over two decades of experience in digital strategy and e-commerce. My core competencies include web and application development, Amazon Marketplace optimization, affiliate marketing and organic search marketing strategy.
@@ -11,15 +13,14 @@ I have worked directly on architecting online marketing strategies, both domesti
 
 As founder and CTO of MarketKarma, I oversee organic search strategy for all enterprise accounts and work to create innovative solutions to assist retailers in tackling their digital marketing challenges.
 
+## I work with brands like..
+
+Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuster, Buckle, CheapCaribbean, Diesel, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Old Navy, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, Sacha Cosmetics, ShearComfort, Smart Bargains, Swanson Health, Williams-Sonoma
+
 ## Drop me a line
 
 |[joey@marketkarma.com](mailto:joey@marketkarma.com "Drop me a line via email.")   |[(888) 277-0225](tel:8882770225 "Give me a shout.")   |[Schedule a consult](https://marketkarma.as.me/ "Schedule a 30-minute meeting with me.")   |[MarketKarma](https://www.google.com/search?q=MarketKarma+SEO "Find me online.")
 |:-:|:-:|:-:|:-:|
-
-
-## We work with brands like..
-
-Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuster, Buckle, CheapCaribbean, Diesel, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Old Navy, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, Sacha Cosmetics, ShearComfort, Smart Bargains, Swanson Health, Williams-Sonoma
 
 ## Connect
 
