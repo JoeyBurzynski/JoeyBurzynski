@@ -1,7 +1,7 @@
 
 
 # Joey Burzynski
-## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Experts in Miami Beach, Florida")**  
+## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami Beach, Florida")**  
 
 #### Drop me a line
 
