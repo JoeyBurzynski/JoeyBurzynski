@@ -34,16 +34,17 @@ Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuste
   
 ## Elsewhere
 
-|[LinkedIn](https://www.linkedin.com/in/miamibeachseo)|[Twitter](https://twitter.com/JoeyBurzynski)   |[Product Hunt](https://www.producthunt.com/@joeyburzynski)   |[Quora](https://www.quora.com/profile/Joey-Burzynski)   |[CodeMentor](https://www.codementor.io/@marketkarma)   |[StackOverflow](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert")   |
+|[LinkedIn](https://www.linkedin.com/in/miamibeachseo "SEO Expert Joey Burzynski on LinkedIn")|[Twitter](https://twitter.com/JoeyBurzynski "Joey Burzynski on Twitter")   |[Product Hunt](https://www.producthunt.com/@joeyburzynski "Joey Burzynski on ProductHunt")   |[Quora](https://www.quora.com/profile/Joey-Burzynski "Joey Burzynski on Quora")   |[CodeMentor](https://www.codementor.io/@marketkarma "MarketKarma on CodeMentor")   |[StackOverflow](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert")   |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Dribbble](https://dribbble.com/JoeyBurzynski)   |[Feedly](https://feedly.com/joeyburzynski/Ruby)   |[Github Gist](https://gist.github.com/JoeyBurzynski)   |[MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")   |[Medium](https://medium.com/@joeyburzynski)   |[Moz](https://moz.com/community/users/4206813)|[CodePen](https://codepen.io/ResistedNormalcy)
-|[Arc](https://arc.dev/@marketkarma)   |[Patreon](https://www.patreon.com/JoeyBurzynski/creators)   |[Behance](https://www.behance.net/joeyburzynski)   |[SEMRush](https://www.semrush.com/user/146064753/)   |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski)   |[AngelList](https://angel.co/u/joeyburzynski)   |
+|[Dribbble](https://dribbble.com/JoeyBurzynski "Joey Burzynski on Dribbble")   |[Feedly](https://feedly.com/joeyburzynski/ "Joey Burzynski's Feedly feed")   |[Github Gist](https://gist.github.com/JoeyBurzynski "Joey Burzynski's Gists on GitHub")   |[MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")   |[Medium](https://medium.com/@joeyburzynski "Joey Burzynski on Medium.com")   |[Moz](https://moz.com/community/users/4206813 "Joey Burzynski on Moz.com")|[CodePen](https://codepen.io/ResistedNormalcy "Joey Burzynski on CodePen")
+|[Arc](https://arc.dev/@marketkarma "SEO Agency MarketKarma on Arc.dev")   |[Patreon](https://www.patreon.com/JoeyBurzynski/ "Joey Burzynski on Patreon.com")   |[Behance](https://www.behance.net/joeyburzynski "Joey Burzynski on Behance.net")   |[SEMRush](https://www.semrush.com/user/146064753/ "SEO Expert Joey Burzynski on SEMRush.com")   |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski "Joey Burzynski on Crunchbase.com")   |[AngelList](https://angel.co/u/joeyburzynski "Joey Burzynski on Angel.co")   |
+|[TradingView](https://www.tradingview.com/u/JoeyBurzynski/ "Joey Burzynski on TradingView")   |   |   |   |   |   |
   
   
 ----------
   
   
-# [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO & E-commerce Search Marketing Technology")
+# [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")
 ## SEO & E-commerce Search Marketing Technology
 
 MarketKarma is a full-service digital agency based in Miami Beach, Florida.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative digital marketing strategies to propel our clients business into the stratosphere.  We believe in the power of '_what if?_'; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
