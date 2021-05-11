@@ -39,8 +39,9 @@ Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuste
 |[Dribbble](https://dribbble.com/JoeyBurzynski "Joey Burzynski on Dribbble")   |[Feedly](https://feedly.com/joeyburzynski/ "Joey Burzynski's Feedly feed")   |[Github Gist](https://gist.github.com/JoeyBurzynski "Joey Burzynski's Gists on GitHub")   |[MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")   |[Medium](https://medium.com/@joeyburzynski "Joey Burzynski on Medium.com")   |[Moz](https://moz.com/community/users/4206813 "Joey Burzynski on Moz.com")|[CodePen](https://codepen.io/ResistedNormalcy "Joey Burzynski on CodePen")
 |[Arc](https://arc.dev/@marketkarma "SEO Agency MarketKarma on Arc.dev")   |[Patreon](https://www.patreon.com/JoeyBurzynski/ "Joey Burzynski on Patreon.com")   |[Behance](https://www.behance.net/joeyburzynski "Joey Burzynski on Behance.net")   |[SEMRush](https://www.semrush.com/user/146064753/ "SEO Expert Joey Burzynski on SEMRush.com")   |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski "Joey Burzynski on Crunchbase.com")   |[AngelList](https://angel.co/u/joeyburzynski "Joey Burzynski on Angel.co")   |
 |[TradingView](https://www.tradingview.com/u/JoeyBurzynski/ "Joey Burzynski on TradingView")   |[Notion](https://www.notion.so/marketkarma/112ca361fc12483292f237997bbc5be7?v=01ab4dc1a83b4baa986d476e0c0b614b "Joey Burzynski on Notion")   |[CodeSandbox](https://codesandbox.io/u/JoeyBurzynski "Joey Burzynski on CodeSandbox")   |[GitLab](https://gitlab.com/JoeyBurzynski "Joey Burzynski on GitLab")   |[Google Developers](https://developers.google.com/profile/u/111165200429261031855 "Joey Burzynski's Google Developer profile")   |[Arc.dev](https://community.arc.dev/user/joeyburzynski "Joey Burzynski's profile at Arc.dev Community")   |
-  
-  
+|[AngelList](https://angel.co/u/joeyburzynski "Joey Burzynski on AngelList.co") |[CodeSandbox.io](https://codesandbox.io/u/JoeyBurzynski "Joey Burzynski on CodeSandbox.io")  |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski "Joey Burzynski on Crunchbase")  |[Dev.to](https://dev.to/joeyburzynski "Joey Burzynski on Dev.to")  |[IndieHackers](https://www.indiehackers.com/JoeyBurzynski "Joey Burzynski on IndieHackers")  |[JSFiddle](https://jsfiddle.net/user/joeyburzynski/fiddles/ "Joey Burzynski's fiddles on JSFiddle")  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
 ----------
   
   
@@ -57,6 +58,7 @@ Clients rely on our SaaS platform, MarketReach, to algorithmically enrich and ex
 | | | | | | |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |[![MarketKarma](https://www.marketkarma.com/shared/MarketKarma.png "MarketKarma: E-commerce SEO Technology")](https://www.marketkarma.com "MarketKarma: Internet Marketing Agency in Miami Beach, Florida")|[![MarketKarma on GitHub](https://www.marketkarma.com/shared/GitHub.png "MarketKarma on GitHub")](https://github.com/MarketKarma "MarketKarma on GitHub")|[![MarketKarma on Twitter](https://www.marketkarma.com/shared/Twitter.png "MarketKarma on Twitter")](https://twitter.com/MarketKarma "MarketKarma on Twitter")|[![MarketKarma on LinkedIn](https://www.marketkarma.com/shared/LinkedIn.png "MarketKarma on LinkedIn")](https://www.linkedin.com/company/MarketKarma "MarketKarma: E-commerce Search Marketing Technology")|[![MarketKarma on Facebook](https://www.marketkarma.com/shared/Facebook.png "MarketKarma on Facebook")](https://www.facebook.com/MarketKarma "MarketKarma: E-commerce SEO Experts in Miami Beach, Florida")|[![MarketKarma on AngelList](https://www.marketkarma.com/shared/AngelList.png "MarketKarma on AngelList")](https://angel.co/marketkarma "MarketKarma on AngelList")|
+
 
 
 <!--
