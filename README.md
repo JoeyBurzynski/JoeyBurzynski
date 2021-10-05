@@ -48,7 +48,7 @@ Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuste
 # [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami, Florida")
 ## SEO & E-commerce Search Marketing Technology
 
-[MarketKarma](https://www.notion.so/marketkarma/a9e7fe51ce694d06a02c6836581b70be?v=04588429aabb4b768bad54aa87b71193 "SEO Agency in Miami Beach, Florida") is a full-service digital agency based in Miami Beach, Florida.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative digital marketing strategies to propel our clients business into the stratosphere.  We believe in the power of '_what if?_'; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
+[MarketKarma](https://marketkarma.notion.site/a9e7fe51ce694d06a02c6836581b70be?v=04588429aabb4b768bad54aa87b71193 "SEO Agency in Miami Beach, Florida") is a full-service digital agency based in Miami Beach, Florida.  Be it billion dollar brands or startups, we've spent the last decade crafting technology solutions and innovative digital marketing strategies to propel our clients business into the stratosphere.  We believe in the power of '_what if?_'; combining our collective expertise in marketing, design, and development to help our clients think beyond ordinary.
 
 Search algorithms reward rich and targeted content. Taxonomies, templates, and assets in e-commerce platforms tend to be restrictive, inherently unstable, and may not fully differentiate product facets or leverage best practice markup. Escaping these constraints is critical to communicating value to the search engines and ranking effectively.
 
