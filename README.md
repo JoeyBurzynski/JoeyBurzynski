@@ -1,7 +1,7 @@
 
 
 # Joey Burzynski
-## **[SEO Expert](https://stackoverflow.com/story/seo "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami Beach, Florida")**  
+## **[SEO Expert](https://www.linkedin.com/in/miamibeachseo/ "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami Beach, Florida")**  
 
 #### Drop me a line
 
@@ -11,9 +11,9 @@
   
 ## What I do..
 
-I drive revenue. All other metrics pale in comparison.
+**I drive revenue.** All other metrics pale in comparison.
 
-I have over two decades of experience in digital strategy and e-commerce. My core competencies include web and application development, Amazon Marketplace optimization, affiliate marketing and organic search marketing strategy.
+Be it billion dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  My core competencies include organic search marketing (SEO), software development, and e-commerce marketing automation through the application of computational ontologies/NLP.
 
 I have worked directly on architecting online marketing strategies, both domestic and international, for a number of global brands.
 
@@ -41,6 +41,7 @@ Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuste
 |[TradingView](https://www.tradingview.com/u/JoeyBurzynski/ "Joey Burzynski on TradingView")   |[Notion (Joey)](https://marketkarma.notion.site/marketkarma/112ca361fc12483292f237997bbc5be7?v=01ab4dc1a83b4baa986d476e0c0b614b "Joey Burzynski on Notion")   |[CodeSandbox](https://codesandbox.io/u/JoeyBurzynski "Joey Burzynski on CodeSandbox")   |[GitLab](https://gitlab.com/JoeyBurzynski "Joey Burzynski on GitLab")   |[Google Developers](https://developers.google.com/profile/u/111165200429261031855 "Joey Burzynski's Google Developer profile")   |[Arc.dev](https://community.arc.dev/user/joeyburzynski "Joey Burzynski's profile at Arc.dev Community")   |
 |[AngelList](https://angel.co/u/joeyburzynski "Joey Burzynski on AngelList.co") |[CodeSandbox.io](https://codesandbox.io/u/JoeyBurzynski "Joey Burzynski on CodeSandbox.io")  |[Crunchbase](https://www.crunchbase.com/person/joey-burzynski "Joey Burzynski on Crunchbase")  |[Dev.to](https://dev.to/joeyburzynski "Joey Burzynski on Dev.to")  |[IndieHackers](https://www.indiehackers.com/JoeyBurzynski "Joey Burzynski on IndieHackers")  |[JSFiddle](https://jsfiddle.net/user/joeyburzynski/fiddles/ "Joey Burzynski's fiddles on JSFiddle")  |  
 |[StackShare](https://stackshare.io/JoeyBurzynski "Joey Burzynski on StackShare")  |[StandardResume](https://standardresume.co/r/JoeyBurzynski "Joey Burzynski on StandardResume")  |[Microsoft](https://www.microsoft.com/en-us/solution-providers/partnerdetails/793256ea-c3e6-4c90-8956-7d4c654ae549/8bad3432-1cdb-4d2e-8250-5a4b92e8fe5a "MarketKarma on Microsoft")  |[Ahrefs.com](https://ahrefs.com/seo-agencies/us/fl/miami-beach "MarketKarma: E-Commerce SEO Agency on Ahrefs.com")  |[Notion (MK)](https://marketkarma.notion.site/ "MarketKarma SEO")  |[ORCID](https://orcid.org/0000-0002-7448-8294 "Joey Burzynski on ORCID")  |  
+|[FreeCodeCamp](https://www.freecodecamp.org/SEOExpert "Joey Burzynski on FreeCodeCamp.org")  |[FrontendMentor.io](https://www.frontendmentor.io/profile/JoeyBurzynski "Joey Burzynski on FrontendMentor.io")  |[Glitch](https://glitch.com/@JoeyBurzynski "Joey Burzynski on Glitch")  |  |  |  |  
 |  |  |  |  |  |  |  
 ----------
   
