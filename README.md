@@ -22,7 +22,7 @@ As founder and CTO of MarketKarma, I oversee organic search strategy for all ent
   
 ## I work with brands like..
 
-Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Networks, Blockbuster, Buckle, CheapCaribbean, Diesel, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Old Navy, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, Sacha Cosmetics, ShearComfort, Smart Bargains, Swanson Health, Williams-Sonoma
+Ace Cash Express, Athleta, Banana Republic, Blackhawk Network, Blockbuster, Buckle, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, GUESS, Gap, GiftCardMall, Gold's Gym, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Mavor Lane, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, SPFM LP, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Williams-Sonoma
   
   
 ## Connect
