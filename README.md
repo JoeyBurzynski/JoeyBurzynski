@@ -1,7 +1,7 @@
 
 
 # Joey Burzynski
-## **[SEO Expert](https://www.linkedin.com/in/miamibeachseo/ "Joey Burzynski: SEO Expert") / Full Stack Developer / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami Beach, Florida")**  
+## **[SEO Expert](https://www.linkedin.com/in/miamibeachseo/ "Joey Burzynski: SEO Expert") / [Full-stack Developer](https://profile.codersrank.io/user/joeyburzynski "Joey Burzynski - Full-stack Developer") / Founder & CTO at [MarketKarma](https://www.marketkarma.com "MarketKarma: SEO Agency in Miami Beach, Florida")**  
 
 #### Drop me a line
 
@@ -13,17 +13,34 @@
 
 **I drive revenue.** All other metrics pale in comparison.
 
-Be it billion dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  My core competencies include organic search marketing (SEO), software development, and e-commerce marketing automation through the application of computational ontologies/NLP.
+Be it billion dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  I believe in the power of 'what if?'; leveraging hybrid expertise in software development and digital marketing to achieve extraordinary results.
 
-I have worked directly on architecting online marketing strategies, both domestic and international, for a number of global brands.
-
-As founder and CTO of MarketKarma, I oversee organic search strategy for all enterprise accounts and work to create innovative solutions to assist retailers in tackling their digital marketing challenges.
+My core competencies include search engine optimization (SEO), digital strategy, e-commerce, software development, data wrangling (NLP/computational ontologies), and search marketing automation.
   
   
 ## I work with brands like..
 
-Ace Cash Express, Athleta, Banana Republic, Blackhawk Network, Blockbuster, Buckle, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, GUESS, Gap, GiftCardMall, Gold's Gym, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Mavor Lane, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, SPFM LP, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Williams-Sonoma
+Ace Cash Express, Athleta, Banana Republic, Blackhawk Network, Blockbuster, Buckle, Censys, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Mavor Lane, Mordor Intelligence, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, SPFM LP, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Williams-Sonoma
   
+Areas of expertise
+---
+Search Engine Optimization (SEO), Technical SEO, Growth Hacking, Natural Language Processing (NLP), Artificial Intelligence (AI), Marketing Automation, E-commerce, Software Engineering, SaaS, Data Science, Python, Ruby
+
+Interested in
+---
+Affiliate Marketing, Angel Investing, Artificial Intelligence (AI), Computational Linguistics, Computational Ontologies, Consulting, Content Marketing, Crypto, Data Science, Digital Marketing, eCommerce, Entrepreneurship, GPT-3, Growth Hacking, Machine Learning, Marketing Automation, Natural Language Processing (NLP), Node.js, NodeJS, Product Design, Programming Languages, Python, Ruby, SaaS, Search Engine Optimization (SEO), Search Marketing Strategy, Software Development, Technical SEO, Technology, Visual Design, Web Development
+
+Ask me about
+---
+Ask me about SEO strategy (technical, on-site, off-site, or growth hacks) or improving organic search visibility at scale in e-commerce through marketing automation.
+
+I'd like to learn about
+---
+I'm always interested in hearing about interesting projects and/or recent innovation in AI/ML/NLP space.
+
+Top of mind
+---
+I've spent a lot of time recently researching autoregressive language models in deep learning (like GPT-3).
   
 ## Connect
 
