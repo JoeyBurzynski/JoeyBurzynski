@@ -13,7 +13,7 @@
 
 **I drive revenue.** All other metrics pale in comparison.
 
-Be it billion dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  I believe in the power of 'what if?'; leveraging hybrid expertise in software development and digital marketing to achieve extraordinary results.
+Be it billion-dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  I believe in the power of 'what if?'; leveraging hybrid expertise in software development, search engine optimization (SEO), and digital strategy to achieve extraordinary results.
 
 My core competencies include search engine optimization (SEO), digital strategy, e-commerce, software development, data wrangling (NLP/computational ontologies), and search marketing automation.
   
@@ -21,10 +21,10 @@ My core competencies include search engine optimization (SEO), digital strategy,
 ## I work with brands like..
 
 Ace Cash Express, Athleta, Banana Republic, Blackhawk Network, Blockbuster, Buckle, Censys, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Mavor Lane, Mordor Intelligence, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, SPFM LP, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Williams-Sonoma
-  
+
 Areas of expertise
 ---
-Search Engine Optimization (SEO), Technical SEO, Growth Hacking, Natural Language Processing (NLP), Artificial Intelligence (AI), Marketing Automation, E-commerce, Software Engineering, SaaS, Data Science, Python, Ruby
+Artificial Intelligence (AI), Composable Commerce, Computational Linguistics/Ontologies, Data Science, Edge SEO, Enterprise E-commerce, Generative AI (LLMs, GPT, Prompt Engineering), Growth Hacking, Marketing Automation, Natural Language Processing (NLP), Python, Ruby, SaaS, Search Engine Optimization (SEO), Software Engineering, Technical SEO, Web Development (Node.js, Python, Ruby), Web Performance Optimization
 
 Interested in
 ---
@@ -40,7 +40,7 @@ I'm always interested in hearing about interesting projects and/or recent innova
 
 Top of mind
 ---
-I've spent a lot of time recently researching autoregressive language models in deep learning (like GPT-3).
+I've spent a lot of time recently researching autoregressive language models in deep learning (like GPT-4).
   
 ## Connect
 
