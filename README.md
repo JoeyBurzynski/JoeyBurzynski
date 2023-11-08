@@ -16,7 +16,13 @@
 Be it billion-dollar brands or startups, I've spent the last two decades architecting technology solutions and innovative search marketing strategies (domestic & international) for e-commerce.  I believe in the power of 'what if?'; leveraging hybrid expertise in software development, search engine optimization (SEO), and digital strategy to achieve extraordinary results.
 
 My core competencies include search engine optimization (SEO), digital strategy, e-commerce, software development, data wrangling (NLP/computational ontologies), and search marketing automation.
+
+## Elsewhere
   
+💼  Resume/CV: [TechnicalSEO.me](https://technicalseo.me "Resume / CV | Joey Burzynski") or via [PDF](https://share.marketkarma.com/Joey-Burzynski-20-year-SEO-Expert-and-Full-stack-Developer.pdf "Resume / CV | Joey Burzynski").  
+🛠️  I'm currently working on [MiamiSEO.expert](https://miamiseo.expert/seo/ "SEO Services | MiamiSEO.expert"), [Nudge.us](https://nudge.us/ "Nudge.us - Smart link management platform with advanced features for URL shortening, targeting, and tracking"), [Programmatic.dev](https://programmatic.dev/ "Programmatic.dev » Where Data, Code, and SEO Converge"), [SearchEngineOptimization.dev](https://searchengineoptimization.dev/ "Curated Collection of SEO Tools & Resources | SearchEngineOptimization.dev"), [SEO.review](https://seo.review "SEO.review - Cloud-based Technical SEO Audit & Site Reporting Tools"), and [TechnicalSEO.io](https://technicalseo.io "Master technical SEO, from bots to bytes").  
+📝  Periodic contributor to [Fast Company](https://board.fastcompany.com/profile/Joey-Burzynski-SEO-Expert-%7C-Founder-CTO-MarketKarma/12629614-d0b7-4a8c-8076-5be2166473a0 "Joey Burzynski on Fast Company"), [Forbes](https://councils.forbes.com/profile/Joey-Burzynski-Founder-CTO-MarketKarma/72b6886c-bd96-4988-ad8b-14287a291009 "Joey Burzynski on Forbes"), [Medium](https://medium.com/@joeyburzynski "JoeyBurzynski on Medium"), [Quora](https://www.quora.com/profile/Joey-Burzynski "Joey Burzynski on Quora") and [YEC](https://yec.co/members/profile/Joey-Burzynski-Founder-CTO-MarketKarma/ba0650bf-d313-48b6-8c95-ab3d31dbb02e "Joey Burzynski on Young Entrepreneur Council").  
+    
   
 ## I work with brands like..
 
