@@ -20,7 +20,7 @@ My core competencies include search engine optimization (SEO), digital strategy,
   
 ## I work with brands like..
 
-Ace Cash Express, Athleta, Banana Republic, Blackhawk Network, Blockbuster, Buckle, Censys, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, Gap, GiftCardMall, Gold's Gym, GUESS, Horchow, JCPenney, Livingston Lures, Marciano, Mavis Tire, Mavor Lane, Mordor Intelligence, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, Red Envelope, Ritter Dental, SPFM LP, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Williams-Sonoma
+Ace Cash Express, Athleta, Banana Republic, Belk, Blackhawk Network, Blockbuster, Buckle, Censys, CheapCaribbean, CheckPast, DashFly, Diesel, DistroMex, Ebates, Eddie Bauer, Fossil, GUESS, Gap, GiftCardMall, Gold's Gym, Hawthorne Plumbing & HVAC, Horchow, JCPenney, Livingston Lures, Love Inc. Magazine, Marciano, Mavis Tire, Mavor Lane, Minimally Invasive Spine Institute, Mordor Intelligence, Old Navy, Orbitz, Oriental Trading Company, PacSun, Piperlime, RedEnvelope, ResumeSpice, Ritter Dental, Sacha Cosmetics, ShearComfort, SmartBargains, Swanson Health, Toronto Cosmetic Surgery Institute, Williams-Sonoma
 
 Areas of expertise
 ---
